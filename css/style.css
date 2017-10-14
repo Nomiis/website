@@ -143,9 +143,9 @@ footer{
 }
 
 /* Midea Quiries */
-@media(max-width: 1818px){
+@media(min-width: 1024px){
   #boxes .box{
-    padding: 17px;
+    padding:1.5%;
   }
 
 @media(max-width: 768px){
